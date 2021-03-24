@@ -23,7 +23,6 @@ scripts/*.screen
 doc/_build/
 .installed
 .mypy_cache
-.vscode
 .theia
 .venv/
 
@@ -31,3 +30,5 @@ doc/_build/
 test/unittests/skills/test_skill/settings.json
 test_conf.json
 .pytest_cache/
+config.bat
+node_modules
